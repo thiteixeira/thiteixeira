@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm a frontend engineer working with video streaming 🎥
+I'm a software engineer at Viasat on a mission to connect the world 🛰️
 
-- Currently working at Brightcove
-- Tech I use daily include, but not limited to, `Typescript`, `Javascript`, `React`, `Redux`, `Immer`, `Redux-Sagas`, `Git`, `HTML5`, `CSS`, `SASS`, `VS Code`, `Insomnia`, `Slack`, `Jira`, `Jest`, `FFmpeg`
-- Tech I use occasionally include, but not limited to, `Python`, `BigQuery`, `Pandas`, `Matplotlib`, `Heroku`, `Express`, `MongoDB`, `EJS`, `Testcafe`, `Jenkins`, `Docker`, `AWS`, `Datagog`, `Linux`, `Tmux`, `Bootstrap`, `D3.js`, `Bash`, `Latex`
-- Other tech I used in the past include `TensorFlow`, `Java`, `C++`, `Flask`, `Django`, `Matlab`, `Handlebars`, `GIS`, `SumoLogic` ... (others will be added as I remember then 🙂 )
+- Previously at Brightcove video streaming  🎥
+- Tech I use daily include, but not limited to, `Python`, `Pandas`, `AWS`, `Splunk`, `Grafana`, `Git`, `VS Code`, `Insomnia`, `Slack`, `Jira`, `Docker`, `Linux`, `Tmux`
+- Tech I use occasionally include, but not limited to, `BigQuery`, `Matplotlib`, `Heroku`, `Express`, `MongoDB`, `EJS`, `Testcafe`, `Jenkins`, `Datagog`, `Bootstrap`, `D3.js`, `Bash`, `Latex`
+- Other tech I used in the past include `TensorFlow`, `Java`, `C++`, `Flask`, `Django`, `Matlab`, `Handlebars`, `GIS`, `SumoLogic`, `Jest`, `FFmpeg`, `Typescript`, `Javascript`, `React`, `Redux`, `Immer`, `Redux-Sagas`, `HTML5`, `CSS`, `SASS`, ... (others will be added as I remember then 🙂 )
 
 ### About Pinned Repos
 Checkout some of the pinned projects below:
